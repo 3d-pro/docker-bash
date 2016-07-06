@@ -1,3 +1,3 @@
 FROM docker:rc
 
-RUN apk add --no-cache sudo bash
+RUN apk add --no-cache sudo bash git
